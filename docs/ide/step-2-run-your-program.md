@@ -20,7 +20,7 @@ ms.contentlocale: zh-CN
 ms.lasthandoff: 12/22/2017
 ---
 # <a name="step-2-run-your-program"></a>步骤 2：运行程序
-一旦创建新的解决方案，实际上就生成了所运行的程序。 该程序并未执行其他操作，它只是显示了一个在标题栏中显示“Form1”的空窗口。 但该程序确实在运行，您即将查明这一点。  
+在创建新的解决方案时，实际上就生成了一个可运行的程序。 该程序并未执行其他操作，它只是显示了一个在标题栏中显示“Form1”的空窗口。 但该程序确实在运行，您即将查明这一点。  
   
  ![视频链接](../data-tools/media/playvideo.gif "PlayVideo")有关本主题的视频版本，请观看[Tutorial 1: Create a Picture Viewer in Visual Basic - Video 1](http://go.microsoft.com/fwlink/?LinkId=205209)（教程 1：用 Visual Basic 创建图片查看器 - 视频 1）或 [Tutorial 1: Create a Picture Viewer in C# - Video 1](http://go.microsoft.com/fwlink/?LinkId=205199)（教程 1：用 C# 创建图片查看器 - 视频 1）。 这些视频使用 Visual Studio 的早期版本，因此在一些菜单命令和其他用户界面元素上略有差异。 但是，概念和过程与当前版本的 Visual Studio 大同小异。  
   
